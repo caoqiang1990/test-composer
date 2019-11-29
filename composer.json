@@ -1,0 +1,9 @@
+{
+    "name": "aimer/test-composer",
+    "description": "这是一个测试项目",
+    "type": "project",
+    "require": {
+        "php": "7.1"
+    },
+    "minimum-stability": "stable"
+}
