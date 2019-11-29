@@ -1,5 +1,5 @@
 {
-    "name": "aimer/test-composer",
+    "name": "aimertest/test-composer",
     "description": "这是一个测试项目",
     "type": "project",
     "require": {
